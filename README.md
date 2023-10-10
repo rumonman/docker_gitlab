@@ -1,2 +1,3 @@
-Access GitLab Web Interface
+Access GitLab Web Interface,
+
 docker exec -it gitlab-ce grep 'Password:' /etc/gitlab/initial_root_password
